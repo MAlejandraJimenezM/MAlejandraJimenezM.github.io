@@ -1,0 +1,20 @@
+---
+title: "Miriam Alejandra Jimenez Marmolejo"
+image: "yolinda.png"
+links:
+  - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
+    url: "https://x.com/aleconadealelo"
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/MAlejandraJimenezM"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "alejandra.jimenez1504unam@gmail.com"
+output:
+  postcards::solana
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+#### **Bio** ₊˚⊹♡
+I'm currently an undergraduate in Ciencias Genomicas, UNAM ENES Juriquilla. I'm interested in population genetics, evolution plus natural selection and genomic statistics. I'm part of Dr. Diego Ortega del Vecchyo Lab working on simulating effects of natural selection on populations through SLiM.

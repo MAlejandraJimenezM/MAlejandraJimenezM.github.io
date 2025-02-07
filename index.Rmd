@@ -8,8 +8,8 @@ links:
     url: "https://github.com/MAlejandraJimenezM"
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
     url: "alejandra.jimenez1504unam@gmail.com"
-  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` CV' url: "MAlejandraJimenezM.github.io/cv_MJimenez.pdf"
-
+  - label: '`r fontawesome::fa(name = "file-pdf", fill = "steelblue")` CV'
+    url: "https://MAlejandraJimenezM.github.io/cv_MJimenez.pdf"
 output:
   postcards::solana
 ---
